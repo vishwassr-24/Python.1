@@ -1,0 +1,42 @@
+[
+    {
+        "date": "05-10-2026",
+        "time": "15:00:10",
+        "timestamp": "2026-10-05 15:00:10",
+        "status": "MOTION DETECTED",
+        "motion_area": 1420,
+        "num_objects": 1
+    },
+    {
+        "date": "05-10-2026",
+        "time": "15:00:15",
+        "timestamp": "2026-10-05 15:00:15",
+        "status": "MOTION DETECTED",
+        "motion_area": 2180,
+        "num_objects": 2
+    },
+    {
+        "date": "05-10-2026",
+        "time": "15:00:25",
+        "timestamp": "2026-10-05 15:00:25",
+        "status": "NO MOTION",
+        "motion_area": 0,
+        "num_objects": 0
+    },
+    {
+        "date": "05-10-2026",
+        "time": "15:13:49",
+        "timestamp": "2026-10-05 15:13:49",
+        "status": "MOTION DETECTED",
+        "motion_area": 18678,
+        "num_objects": 1
+    },
+    {
+        "date": "05-10-2026",
+        "time": "15:16:16",
+        "timestamp": "2026-10-05 15:16:16",
+        "status": "MOTION DETECTED",
+        "motion_area": 18678,
+        "num_objects": 1
+    }
+]

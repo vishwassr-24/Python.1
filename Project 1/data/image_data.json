@@ -1,0 +1,42 @@
+[
+    {
+        "filename": "sample.jpg",
+        "width": 1280,
+        "height": 720,
+        "channels": 3,
+        "data_type": "uint8",
+        "operation": "Original",
+        "output_filename": "sample.jpg",
+        "timestamp": "2026-10-05 14:00:00"
+    },
+    {
+        "filename": "test_output.jpg",
+        "width": 500,
+        "height": 500,
+        "channels": 3,
+        "data_type": "uint8",
+        "operation": "Test Save",
+        "output_filename": "test_output.jpg",
+        "timestamp": "2026-10-05 15:12:02"
+    },
+    {
+        "filename": "test_output.jpg",
+        "width": 500,
+        "height": 500,
+        "channels": 3,
+        "data_type": "uint8",
+        "operation": "Test Save",
+        "output_filename": "test_output.jpg",
+        "timestamp": "2026-10-05 15:16:07"
+    },
+    {
+        "filename": "sample.jpg",
+        "width": 1280,
+        "height": 720,
+        "channels": 3,
+        "data_type": "uint8",
+        "operation": "Read Image",
+        "output_filename": "sample.jpg",
+        "timestamp": "2026-10-05 15:18:09"
+    }
+]
